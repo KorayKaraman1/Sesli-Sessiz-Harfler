@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/anamen\xFC.unity"
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/konu.unity
+    guid: 293a0512402e77844a265be27c2d0081
+  - enabled: 1
+    path: Assets/Scenes/konu2.unity
+    guid: 92b854101e8613d42a023183d08a3532
+  - enabled: 1
+    path: Assets/Scenes/test1.unity
+    guid: 5c981201bc7f68f4d89c379c2faabfca
+  - enabled: 1
+    path: Assets/Scenes/test2.unity
+    guid: f21ca7f64ed273344a8836554bbef31c
+  - enabled: 1
+    path: Assets/Scenes/test3.unity
+    guid: 02e71ec7543db544cb7173c1b9477307
+  - enabled: 1
+    path: Assets/Scenes/test4.unity
+    guid: 9e1804480e4dc96429005bd51d100367
+  - enabled: 1
+    path: Assets/Scenes/yanliscevap.unity
+    guid: 81593d576c4bbef48b99ff58560e9d6a
+  - enabled: 1
+    path: Assets/Scenes/yanlis2.unity
+    guid: f905241c5b29c6d44b0d91e6eb00bf21
+  - enabled: 1
+    path: Assets/Scenes/yanlis3.unity
+    guid: 073905972a413bb4bb60163f00b3d230
+  - enabled: 1
+    path: Assets/Scenes/yanlis4.unity
+    guid: 9d871d8a8448e9c438cf3dee283fea96
+  - enabled: 1
+    path: Assets/Scenes/dogrucevap.unity
+    guid: b0ea216895ff90a42b295e11201eb45e
+  - enabled: 1
+    path: Assets/Scenes/dogru2.unity
+    guid: af68372bf100c974496d259f04f9453f
+  - enabled: 1
+    path: Assets/Scenes/dogru3.unity
+    guid: 92ea96d2a1ef5dd4f958b166b65a1fb6
+  - enabled: 1
+    path: Assets/Scenes/dogru4.unity
+    guid: 99c67af3488508c489c6d65d30fd1cb8
+  - enabled: 1
+    path: Assets/Scenes/OYUN.unity
+    guid: 0355a972966c20a40a527e47f86bd3cc
+  - enabled: 1
+    path: Assets/Scenes/esles.unity
+    guid: 2819dd72009c23b4c854cb0bab74a49b
+  m_configObjects: {}
